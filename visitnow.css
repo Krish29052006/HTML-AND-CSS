@@ -1,0 +1,22 @@
+.background{
+    background-color: darkgray;
+    padding: 5px;
+    margin: auto;
+    height: auto;
+    width: auto;
+    background-image: url("Background.jpg");
+    background-position: 100%;
+}
+.submit{
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+.Signin{
+    color: seashell;
+}
+.username{
+    color: seashell;
+}
+.password{
+    color: seashell;
+}
